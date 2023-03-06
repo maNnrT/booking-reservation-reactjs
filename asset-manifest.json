@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/booking-reservation-reactjs/static/css/main.b9abe90d.css",
-    "main.js": "/booking-reservation-reactjs/static/js/main.397aa697.js",
-    "static/media/hotelsearch.jpeg": "/booking-reservation-reactjs/static/media/hotelsearch.f35f6827b9bd59c21569.jpeg",
-    "static/media/featuredProperties2.jpeg": "/booking-reservation-reactjs/static/media/featuredProperties2.a1e3e7c6f52b2579c9df.jpeg",
-    "static/media/featuredProperties3.jpeg": "/booking-reservation-reactjs/static/media/featuredProperties3.08536faa1b46ba78bbb6.jpeg",
-    "static/media/featuredProperties4.jpeg": "/booking-reservation-reactjs/static/media/featuredProperties4.708946f8e5ef3bdc9605.jpeg",
-    "static/media/featuredProperties1.jpeg": "/booking-reservation-reactjs/static/media/featuredProperties1.77f74819867f82ecfdbe.jpeg",
-    "static/media/haiphong.jpg": "/booking-reservation-reactjs/static/media/haiphong.4a2832c8545f6798b4fe.jpg",
-    "static/media/apartment.jpeg": "/booking-reservation-reactjs/static/media/apartment.b69fb2ae233d754eb61a.jpeg",
-    "static/media/villa.jpeg": "/booking-reservation-reactjs/static/media/villa.8315cea898b68041a187.jpeg",
-    "static/media/resort.jpeg": "/booking-reservation-reactjs/static/media/resort.d00f9157885af9540bc0.jpeg",
-    "static/media/halong.jpg": "/booking-reservation-reactjs/static/media/halong.9be09dc9a6afad61ce66.jpg",
-    "static/media/hotel.jpeg": "/booking-reservation-reactjs/static/media/hotel.27de30bb3f96a90e1664.jpeg",
-    "static/media/catba.jpg": "/booking-reservation-reactjs/static/media/catba.faaecbeae49ad1a82d6a.jpg",
-    "index.html": "/booking-reservation-reactjs/index.html",
-    "main.b9abe90d.css.map": "/booking-reservation-reactjs/static/css/main.b9abe90d.css.map",
-    "main.397aa697.js.map": "/booking-reservation-reactjs/static/js/main.397aa697.js.map"
+    "main.css": "/static/css/main.b9abe90d.css",
+    "main.js": "/static/js/main.f099a893.js",
+    "static/media/hotelsearch.jpeg": "/static/media/hotelsearch.f35f6827b9bd59c21569.jpeg",
+    "static/media/featuredProperties2.jpeg": "/static/media/featuredProperties2.a1e3e7c6f52b2579c9df.jpeg",
+    "static/media/featuredProperties3.jpeg": "/static/media/featuredProperties3.08536faa1b46ba78bbb6.jpeg",
+    "static/media/featuredProperties4.jpeg": "/static/media/featuredProperties4.708946f8e5ef3bdc9605.jpeg",
+    "static/media/featuredProperties1.jpeg": "/static/media/featuredProperties1.77f74819867f82ecfdbe.jpeg",
+    "static/media/haiphong.jpg": "/static/media/haiphong.4a2832c8545f6798b4fe.jpg",
+    "static/media/apartment.jpeg": "/static/media/apartment.b69fb2ae233d754eb61a.jpeg",
+    "static/media/villa.jpeg": "/static/media/villa.8315cea898b68041a187.jpeg",
+    "static/media/resort.jpeg": "/static/media/resort.d00f9157885af9540bc0.jpeg",
+    "static/media/halong.jpg": "/static/media/halong.9be09dc9a6afad61ce66.jpg",
+    "static/media/hotel.jpeg": "/static/media/hotel.27de30bb3f96a90e1664.jpeg",
+    "static/media/catba.jpg": "/static/media/catba.faaecbeae49ad1a82d6a.jpg",
+    "index.html": "/index.html",
+    "main.b9abe90d.css.map": "/static/css/main.b9abe90d.css.map",
+    "main.f099a893.js.map": "/static/js/main.f099a893.js.map"
   },
   "entrypoints": [
     "static/css/main.b9abe90d.css",
-    "static/js/main.397aa697.js"
+    "static/js/main.f099a893.js"
   ]
 }
